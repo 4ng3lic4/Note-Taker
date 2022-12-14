@@ -1,6 +1,6 @@
 const express = require ("express");
 const app = express()//Single instance of the express package
-const PORT = process.env.PORT || 3001 //creating the port
+const PORT = process.env.PORT || 3003 //creating the port
 const htmlRoutes = require("./routes/htmlroutes.js");
 const apiRoutes = require('./routes/api_routes')
 app.use(express.json());
