@@ -16,6 +16,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete on
 
 
 ## Usage
+Install express.js or other packages needed as seen in packagee.json
+run noder server in the command line
 Open the Note Taker
  I click on the link to the notes page
 You will be presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
